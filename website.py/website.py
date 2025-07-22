@@ -3,8 +3,13 @@ import requests
 from datetime import datetime
 
 
-@route('/<name>')
-def index(name):
+@route('/')
+def index():
+    now = datetime.now()
+    current_time = now.strftime("%H:%M:%S")
+    return template('index', time=current_time)
+
+    name = 'Matt'
     response = requests.get(f"https://api.agify.io/?name={name}")
     response = response.json()
     age = response['age']
