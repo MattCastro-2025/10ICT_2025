@@ -1,0 +1,13 @@
+h1{
+    font-size: 40px;
+    background-color:powderblue;
+    color: rgb(114, 114, 224);
+    font-weight: bold;
+}
+
+button{
+    font-size: 30px;
+    padding: 5px;
+    text-align: center;
+    background-color: rgb(111, 111, 224)
+}

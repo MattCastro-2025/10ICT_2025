@@ -17,5 +17,10 @@ def index():
 def index():
     pass
 
+@route('/page2')
+@view('page2')
+def index():
+    pass
+
 #main routine
 run(host='0.0.0.0', port=4000, reloader=True, debug=True)
