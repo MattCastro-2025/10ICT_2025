@@ -1,16 +1,14 @@
-
 img{
-    width: 400px;
-    height: 300px;
+ width: 50px;
 }
 
 h1{
     font-size: 40px;
-    background-color:blue;
+    background-color:lab(30.64% 73.23 -99.32);
     color: white;
     font-weight: bold;
 }
 
 body{
-    background-color: lightblue;
+    background-color: rgb(0, 23, 228);
 }
