@@ -6,6 +6,8 @@ h1{
 }
 
 button{
+    border-radius: 20px;
+    display: block;
     font-size: 30px;
     padding: 5px;
     text-align: center;
