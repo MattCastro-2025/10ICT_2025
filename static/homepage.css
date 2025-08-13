@@ -1,13 +1,17 @@
 img{
- width: 210px;
- height: 250px;
+ width: 310px;
+ height: 350px;
+ margin-left: 30px;
+ margin-right: 30px;
 }
 
 h1{
     font-size: 40px;
-    background-color:lab(34.73% 67.28 -94.17);
+    background-color:rgb(25, 0, 255);
     color: white;
     font-weight: bold;
+    margin-left: 0px;
+    margin-right: 0px;
 }
 
 body{

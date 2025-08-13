@@ -23,4 +23,4 @@ def index():
     pass
 
 #main routine
-run(host='0.0.0.0', port=8000, reloader=True, debug=True)
+run(host='0.0.0.0', port=6000, reloader=True, debug=True)
