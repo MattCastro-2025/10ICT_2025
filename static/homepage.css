@@ -1,8 +1,9 @@
 img{
- width: 310px;
- height: 350px;
- margin-left: 30px;
- margin-right: 30px;
+ width: 300px;
+ display: block;
+ border-radius: 80px;
+ margin-top:20px;
+ margin-bottom:25px;
 }
 
 h1{
@@ -14,15 +15,26 @@ h1{
     margin-right: 0px;
 }
 
+h2{
+  width: 600px;  
+}
+
+h3{
+  width: 1000px;  
+}
+
 body{
     background-color: rgb(13, 200, 224);
 }
 
 button{
+    text-decoration: none;
     border-radius: 20px;
     display: block;
     font-size: 30px;
     padding: 5px;
     text-align: center;
-    background-color: rgb(42, 42, 233)
+    color: rgb(220, 255, 255);
+    background-color: rgb(42, 42, 233);
+
 }
