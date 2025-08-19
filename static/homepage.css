@@ -4,12 +4,20 @@ img{
  border-radius: 80px;
  margin-top:20px;
  margin-bottom:25px;
+ border-bottom: 15px solid rgb(33, 34, 85);
+ border-top: 15px solid rgb(33, 34, 85);
+  border-left: 15px solid rgb(33, 34, 85);
+  border-right: 15px solid rgb(33, 34, 85);
+}
+
+p{
+ border-bottom: 15px solid rgb(0, 4, 255);
 }
 
 h1{
     font-size: 40px;
     background-color:rgb(25, 0, 255);
-    color: white;
+    color: rgb(255, 255, 255);
     font-weight: bold;
     margin-left: 0px;
     margin-right: 0px;
@@ -36,5 +44,6 @@ button{
     text-align: center;
     color: rgb(220, 255, 255);
     background-color: rgb(42, 42, 233);
+     font-family:'Times';
 
 }
