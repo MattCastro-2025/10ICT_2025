@@ -5,6 +5,10 @@ h1{
     font-weight: bold;
 }
 
+h2{
+    font-size: 30px;
+}
+
 button{
     border-radius: 20px;
     display: block;

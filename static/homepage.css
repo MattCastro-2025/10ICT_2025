@@ -1,13 +1,13 @@
 img{
  width: 300px;
  display: block;
- border-radius: 80px;
+ border-radius: 300px;
  margin-top:20px;
- margin-bottom:25px;
- border-bottom: 15px solid rgb(33, 34, 85);
- border-top: 15px solid rgb(33, 34, 85);
-  border-left: 15px solid rgb(33, 34, 85);
-  border-right: 15px solid rgb(33, 34, 85);
+ margin-bottom:35px;
+ border-bottom: 10px solid rgb(59, 62, 255);
+ border-top: 10px solid rgb(59, 62, 255);
+ border-left: 10px solid rgb(245, 57, 57);
+ border-right: 10px solid rgb(245, 57, 57);
 }
 
 p{
@@ -29,6 +29,10 @@ h2{
 
 h3{
   width: 1000px;  
+}
+
+h4{
+ border-bottom: 15px solid rgb(245, 57, 57);
 }
 
 body{
