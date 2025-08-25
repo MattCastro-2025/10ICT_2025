@@ -28,7 +28,8 @@ h2{
 }
 
 h3{
-  width: 1000px;  
+  margin-right: 1000px;  
+  width:600px;
 }
 
 h4{
@@ -47,7 +48,7 @@ button{
     padding: 5px;
     text-align: center;
     color: rgb(220, 255, 255);
-    background-color: rgb(42, 42, 233);
+    background-color: rgb(106, 106, 255, 0.699);
      font-family:'Times';
 
 }
