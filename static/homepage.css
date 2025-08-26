@@ -4,10 +4,10 @@ img{
  border-radius: 300px;
  margin-top:20px;
  margin-bottom:35px;
- border-bottom: 10px solid rgb(59, 62, 255);
- border-top: 10px solid rgb(59, 62, 255);
- border-left: 10px solid rgb(245, 57, 57);
- border-right: 10px solid rgb(245, 57, 57);
+ border-bottom: 10px solid rgb(245, 57, 57);
+ border-top: 10px solid rgb(245, 57, 57);
+ border-left: 10px solid rgb(59, 62, 255);
+ border-right: 10px solid rgb(59, 62, 255);
 }
 
 p{
