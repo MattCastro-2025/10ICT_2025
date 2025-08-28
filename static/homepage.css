@@ -4,17 +4,19 @@ img{
  border-radius: 300px;
  margin-top:20px;
  margin-bottom:35px;
- border-bottom: 10px solid rgb(245, 57, 57);
- border-top: 10px solid rgb(245, 57, 57);
+ border-bottom: 10px solid rgb(53, 94, 226);
+ border-top: 10px solid rgb(53, 94, 226);
  border-left: 10px solid rgb(59, 62, 255);
  border-right: 10px solid rgb(59, 62, 255);
 }
 
 p{
+color: white;
  border-bottom: 15px solid rgb(0, 4, 255);
 }
 
 h1{
+    color: white;
     font-size: 40px;
     background-color:rgb(25, 0, 255);
     color: rgb(255, 255, 255);
@@ -24,20 +26,24 @@ h1{
 }
 
 h2{
+  color: white;
   width: 600px;  
 }
 
 h3{
+  color: white;
   margin-right: 1000px;  
   width:600px;
 }
 
 h4{
+  color: white;
  border-bottom: 15px solid rgb(245, 57, 57);
 }
 
 body{
-    background-color: rgb(13, 200, 224);
+   background: #000000;
+   background: linear-gradient(82deg,rgba(0, 0, 0, 1) 0%, rgba(44, 99, 230, 1) 44%, rgba(255, 0, 0, 1) 100%);
 }
 
 button{
