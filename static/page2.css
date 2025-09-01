@@ -10,6 +10,10 @@ h2{
 }
 
 button{
+    border-bottom: 5px solid rgb(50, 50, 100);
+    border-left: 2px solid rgb(111, 111, 224);
+    border-right: 2px solid rgb(111, 111, 224);
+    border-top: 2px solid rgb(111, 111, 224);
     border-radius: 20px;
     display: block;
     font-size: 30px;

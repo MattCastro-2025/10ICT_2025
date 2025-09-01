@@ -6,16 +6,21 @@ h1{
 }
 
 h2{
-    width: 600px;
+    width: 900px;
 }
 
 h3{
    font-size: 30px;
    margin-top: 40px;
    font-weight: bold;
+   background: lightskyblue
 }
 
 button{
+    border-bottom: 5px solid rgb(50, 50, 100);
+    border-left: 2px solid rgb(111, 111, 224);
+    border-right: 2px solid rgb(111, 111, 224);
+    border-top: 2px solid rgb(111, 111, 224);
     border-radius: 20px;
     display: block;
     font-size: 30px;
@@ -25,5 +30,6 @@ button{
 }
 
 body{
-    background-color: rgb(112, 250, 192);
+    background: #35cc74;
+    background: linear-gradient(108deg,rgba(53, 204, 116, 1) 44%, rgba(138, 191, 230, 1) 100%);
 }
