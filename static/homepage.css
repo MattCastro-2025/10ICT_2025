@@ -41,22 +41,33 @@ h4{
  border-bottom: 15px solid rgb(245, 57, 57);
 }
 
+h5{
+  color: white;
+  width: 600px;
+  font-size: 30px;
+  font-family:'Trebuchet MS';
+  border-bottom: 6px solid rgb(255, 0, 0);
+}
+
+piler{
+ width: 200px;  
+}
+
 body{
    background: #000000;
    background: linear-gradient(82deg,rgba(0, 0, 0, 1) 0%, rgba(44, 99, 230, 1) 44%, rgba(255, 0, 0, 1) 100%);
 }
 
 button{
-    border-left: 2px solid rgb(11, 11, 234);
-    border-right: 2px solid rgb(11, 11, 234);
-    border-top: 2px solid rgb(11, 11, 234);
-    border-bottom: 2px solid rgb(5, 5, 102);
+    border-left: 5px solid rgb(11, 11, 234);
+    border-right: 5px solid rgb(11, 11, 234);
+    border-top: 5px solid rgb(11, 11, 234);
+    border-bottom: 8px solid rgb(5, 5, 102);
     border-radius: 20px;
     font-size: 30px;
     padding: 5px;
     text-align: center;
     color: rgb(220, 255, 255);
     background-color: rgb(106, 106, 255, 0.699);
-     font-family:'Times';
-
+    font-family:'Times';
 }
