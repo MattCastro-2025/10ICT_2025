@@ -9,6 +9,14 @@ h2{
     font-size: 30px;
 }
 
+
+h3{
+   font-size: 30px;
+   margin-top: 40px;
+   font-weight: bold;
+   background: lightskyblue
+}
+
 button{
     border-bottom: 5px solid rgb(50, 50, 100);
     border-left: 2px solid rgb(111, 111, 224);
@@ -24,4 +32,14 @@ button{
 
 body{
     background-color: rgb(195, 131, 255);
+}
+
+img{
+ width: 500px;
+ display: block;
+margin-bottom:35px;
+ border-bottom: 10px solid rgb(148, 53, 226);
+ border-top: 10px solid rgb(148, 53, 226);
+ border-left: 10px solid rgb(186, 105, 252);
+ border-right: 10px solid rgb(186, 105, 252);
 }
