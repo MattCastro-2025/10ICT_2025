@@ -3,6 +3,7 @@ h1{
     background-color:powderblue;
     color: rgb(114, 114, 224);
     font-weight: bold;
+    font-family: 'Georgia';
 }
 
 h2{
@@ -17,19 +18,29 @@ h3{
 }
 
 button{
-    border-bottom: 5px solid rgb(50, 50, 100);
-    border-left: 2px solid rgb(111, 111, 224);
-    border-right: 2px solid rgb(111, 111, 224);
-    border-top: 2px solid rgb(111, 111, 224);
+    border-bottom: 5px solid rgb(28, 97, 49);
+    border-left: 2px solid rgb(124, 253, 163);
+    border-right: 2px solid rgb(124, 253, 163);
+    border-top: 2px solid rgb(124, 253, 163);
     border-radius: 20px;
     display: block;
     font-size: 30px;
     padding: 5px;
     text-align: center;
-    background-color: rgb(111, 111, 224)
+    background-color: rgb(124, 253, 163);
 }
 
 body{
     background: #35cc74;
     background: linear-gradient(108deg,rgba(53, 204, 116, 1) 44%, rgba(138, 191, 230, 1) 100%);
+}
+
+img{
+ width: 500px;
+ display: block;
+ margin-bottom:35px;
+ border-bottom: 10px solid rgb(101, 236, 112);
+ border-top: 10px solid rgb(101, 236, 112);
+ border-left: 10px solid rgb(32, 211, 47);
+ border-right: 10px solid rgb(32, 211, 47);
 }

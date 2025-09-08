@@ -3,12 +3,12 @@ h1{
     background-color:rgb(6, 6, 110);
     color: rgb(114, 114, 224);
     font-weight: bold;
+    font-family: 'Georgia';
 }
 
 h2{
-    font-size: 30px;
+    width: 900px;
 }
-
 
 h3{
    font-size: 30px;
@@ -31,13 +31,14 @@ button{
 }
 
 body{
-    background-color: rgb(195, 131, 255);
+   background: #a44aed;
+    background: linear-gradient(90deg,rgba(164, 74, 237, 1) 15%, rgba(201, 74, 224, 1) 61%, rgba(0, 48, 161, 1) 100%);
 }
 
 img{
  width: 500px;
  display: block;
-margin-bottom:35px;
+ margin-bottom:35px;
  border-bottom: 10px solid rgb(148, 53, 226);
  border-top: 10px solid rgb(148, 53, 226);
  border-left: 10px solid rgb(186, 105, 252);
