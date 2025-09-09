@@ -1,5 +1,5 @@
 img{
- width: 300px;
+ width: 250px;
  display: block;
  border-radius: 300px;
  margin-top:20px;
@@ -49,9 +49,6 @@ h5{
   border-bottom: 6px solid rgb(255, 0, 0);
 }
 
-piler{
- width: 200px;  
-}
 
 body{
    background: #000000;
