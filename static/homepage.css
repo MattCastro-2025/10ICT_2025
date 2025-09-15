@@ -30,7 +30,8 @@ h1{
 
 h2{
   color: white;
-  width: 600px;  
+  width: 410px;  
+  border-bottom: 4px solid rgb(255, 0, 0);
 }
 
 h3{
