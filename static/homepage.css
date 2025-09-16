@@ -77,4 +77,5 @@ button{
     color: rgb(220, 255, 255);
     background-color: rgb(106, 106, 255, 0.699);
     font-family:'Times';
+    cursor:pointer;
 }
